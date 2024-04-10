@@ -1,2 +1,2 @@
 # WeatherApp
-WeatherApp Java with GUI
+WeatherApp in Java with GUI
